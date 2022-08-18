@@ -29,6 +29,9 @@ body {
     background-color: #cfcfcf;
     padding-top: 1%;
     padding-bottom: 1%;
+    margin: 1%;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 30px 0 rgba(0, 0, 0, 0.10);
 }
 
 #navBar a {
