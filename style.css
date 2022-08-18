@@ -29,9 +29,8 @@ body {
     background-color: #cfcfcf;
     padding-top: 1%;
     padding-bottom: 1%;
-    margin: 1%;
+    margin: 0.5rem;
     border-radius: 15px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 30px 0 rgba(0, 0, 0, 0.10);
 }
 
 #navBar a {
@@ -58,4 +57,25 @@ body {
 #donateBtn {
     width: 30%;
     
+}
+
+#home-container {
+    display: flex;
+    margin-top: 5%;
+}
+
+#home-container-left {
+    text-align: left;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 120%;
+}
+
+#home-container-right {
+    margin-right: 10%;
+}
+
+#mainimg {
+    border-radius: 20px;
 }
